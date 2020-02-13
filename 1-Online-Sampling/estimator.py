@@ -8,8 +8,8 @@ import random
 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
-DEVELOPER_KEY1='AIzaSyDl8b1cvE2wDWJw4baPnQy20ctAff7jM4o'
-DEVELOPER_KEY2='AIzaSyA09gpd9WA4l8QYlPvsroQ5PULq-28v6lc'
+DEVELOPER_KEY1=
+DEVELOPER_KEY2=
 
 charset1 = sorted(list(set('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_')))
 charset2 = sorted(list(set('AQgw')))
