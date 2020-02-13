@@ -1,5 +1,6 @@
-# Online Sampling and Estimation
----
+# Online Sampling and Estimation via YouTube API
+### Proposal
+YouTube is the most popular video website in the world, and we have the estimation that there're approximately 500 million videos on YouTube. Then what about the total number of YouTube channels? I this experiment I sampled and estimated the number of YouTube channels using YouTube API.
 
 ### File description:
 Here are some codes I wrote during the project, some of them are not useful though. I use a star(*) to distinguish the most important files.
