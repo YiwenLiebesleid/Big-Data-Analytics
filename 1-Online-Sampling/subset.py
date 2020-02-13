@@ -6,15 +6,8 @@ import googleapiclient.errors
 from tqdm import tqdm
 
 scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
-# DEVELOPER_KEY='AIzaSyCI0jeuwxq8FSi_9ivFPJCjEX3hECTNNPA'
-# DEVELOPER_KEY='AIzaSyBxwGcmJnkx8RUNDxO_6uH78mQ-ClEyHP0'
-# DEVELOPER_KEY='AIzaSyACHEBX_lQNWOelQ2ziIEba2aNmHQgYwm0'
-# DEVELOPER_KEY='AIzaSyA7_LlUY0dyvEE7poICo5ynlWZp1Z3xkCY'
-# DEVELOPER_KEY='AIzaSyBF6RBo5Roc49yN8BvlG63Fc8h5BtGqTaY'
-# DEVELOPER_KEY='AIzaSyDl8b1cvE2wDWJw4baPnQy20ctAff7jM4o'
-# DEVELOPER_KEY='AIzaSyA09gpd9WA4l8QYlPvsroQ5PULq-28v6lc'
-# DEVELOPER_KEY='AIzaSyAigH7jmDuJ7PnHcUFSB0VEAovUl18Ih-I'
-DEVELOPER_KEY='AIzaSyBoT4n3eW0S92d05OeYE5Gmbde_OkJYvZw'
+
+DEVELOPER_KEY=
 charset1 = sorted(list(set('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_')))
 charset2 = sorted(list(set('AQgw')))
 
